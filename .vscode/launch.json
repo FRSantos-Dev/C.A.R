@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CarApplication<CAR>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.rocha.CAR.CarApplication",
+            "projectName": "CAR",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
